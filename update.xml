@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<theupdates>
+	<update>
+    	<version>1.0</version>
+    	<file>Update.zip</file>
+		<html>https://github.com/GuylhermePlays/dayzupdate/raw/master/SmartSteamEmu.zip</html> 
+		<command>false</command> 
+		<execute>Nada.exe</execute>	
+  	</update>
+</theupdates>
